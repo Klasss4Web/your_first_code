@@ -5,5 +5,6 @@ int main()
   {
     printf("Hello School\n");
   }
-  return 0;
+  return 0
+    i;
 }
